@@ -1,0 +1,2865 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "section": "Arts",
+  "last_updated": "2020-09-24T14:03:48-04:00",
+  "num_results": 34,
+  "results": [
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "New York\u2019s Arts Shutdown: The Economic Crisis in One Lost Weekend",
+      "abstract": "We zero in on one moment in New York City\u2019s cultural calendar that\u2019s been wiped clean \u2014 what it means, what it looks like, what it cost and what\u2019s ahead.",
+      "url": "https://www.nytimes.com/interactive/2020/09/24/arts/new-york-fall-arts-economy.html",
+      "uri": "nyt://interactive/e8b6b242-2ce4-50f7-be30-58ffcb5ba9d2",
+      "byline": "By Dina Litovsky, Victor Llorente, Daniel Arnold, Michael Paulson, Elizabeth Harris and Graham Bowley",
+      "item_type": "Interactive",
+      "updated_date": "2020-09-24T14:23:20-04:00",
+      "created_date": "2020-09-24T05:00:02-04:00",
+      "published_date": "2020-09-24T05:00:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Culture (Arts)",
+        "Quarantine (Life and Culture)",
+        "Coronavirus Reopenings",
+        "Finances",
+        "Shutdowns (Institutional)",
+        "Labor and Jobs",
+        "United States Economy"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27lw-dina1/27lw-dina1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1463,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dina Litovsky for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27lw-dina1/27lw-dina1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dina Litovsky for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27lw-dina1/27lw-dina1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dina Litovsky for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27lw-dina1/27lw-dina1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dina Litovsky for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27lw-dina1/27lw-dina1-articleInline.jpg",
+          "format": "Normal",
+          "height": 136,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dina Litovsky for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ctC4Qh"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Times Square, Grand Central and the Laws That Build the City",
+      "abstract": "A virtual tour looks at the legal battles and innovations behind 42nd Street. Our critic chats with the Harvard professor Jerold S. Kayden.",
+      "url": "https://www.nytimes.com/2020/09/24/arts/design/times-square-grand-central-tour.html",
+      "uri": "nyt://article/173829ae-1d47-5e6e-a273-ced44f66977a",
+      "byline": "By Michael Kimmelman",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T09:11:37-04:00",
+      "created_date": "2020-09-24T05:00:27-04:00",
+      "published_date": "2020-09-24T05:00:27-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Notebook",
+      "des_facet": [
+        "Historic Buildings and Sites",
+        "Land Use Policies",
+        "Eminent Domain",
+        "Area Planning and Renewal",
+        "Architecture",
+        "Real Estate (Commercial)",
+        "Privately Owned Public Spaces",
+        "Parks and Other Recreation Areas",
+        "Zoning"
+      ],
+      "org_facet": [
+        "Ford Foundation",
+        "Grand Central Terminal (Manhattan, NY)",
+        "New York Times",
+        "Pennsylvania Station (Manhattan, NY)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Bryant Park (Manhattan, NY)",
+        "Midtown Area (Manhattan, NY)",
+        "Times Square and 42nd Street (Manhattan, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/arts/00kimmelman-midtown-grandcentral4/merlin_177034383_ebdc13cb-a20f-4b17-8776-9c4c3827abf7-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Zack DeZon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/arts/00kimmelman-midtown-grandcentral4/merlin_177034383_ebdc13cb-a20f-4b17-8776-9c4c3827abf7-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Zack DeZon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/arts/00kimmelman-midtown-grandcentral4/merlin_177034383_ebdc13cb-a20f-4b17-8776-9c4c3827abf7-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Zack DeZon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/arts/00kimmelman-midtown-grandcentral4/merlin_177034383_ebdc13cb-a20f-4b17-8776-9c4c3827abf7-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Zack DeZon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/arts/00kimmelman-midtown-grandcentral4/merlin_177034383_ebdc13cb-a20f-4b17-8776-9c4c3827abf7-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Zack DeZon for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3iZEU26"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Lorne Michaels Isn\u2019t Sure \u2018S.N.L.\u2019 Can Pull This Off",
+      "abstract": "\u201cSaturday Night Live\u201d returns Oct. 3 with Chris Rock as host. In an interview, Michaels, the show\u2019s creator, talks about pandemic preparations and why \u201ca little danger\u201d can be good for comedy.",
+      "url": "https://www.nytimes.com/2020/09/24/arts/television/lorne-michaels-saturday-night-live-chris-rock.html",
+      "uri": "nyt://article/27cbb93f-61a2-57b4-b9cd-de18b714d53c",
+      "byline": "By Dave Itzkoff",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T14:00:06-04:00",
+      "created_date": "2020-09-24T14:00:06-04:00",
+      "published_date": "2020-09-24T14:00:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Saturday Night Live (TV Program)"
+      ],
+      "org_facet": [
+        "National Broadcasting Co"
+      ],
+      "per_facet": [
+        "Michaels, Lorne"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24SNL1-alt/24SNL1-alt-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 934,
+          "width": 1400,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cS.N.L.\u201d had to reinvent its production process for the Covid era. \u201cWe\u2019re going to be as surprised as everyone else when it actually goes on,\u201d Lorne Michaels said.",
+          "copyright": "Rosalind O'Connor/NBC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24SNL1-alt/24SNL1-alt-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cS.N.L.\u201d had to reinvent its production process for the Covid era. \u201cWe\u2019re going to be as surprised as everyone else when it actually goes on,\u201d Lorne Michaels said.",
+          "copyright": "Rosalind O'Connor/NBC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24SNL1-alt/24SNL1-alt-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cS.N.L.\u201d had to reinvent its production process for the Covid era. \u201cWe\u2019re going to be as surprised as everyone else when it actually goes on,\u201d Lorne Michaels said.",
+          "copyright": "Rosalind O'Connor/NBC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24SNL1-alt/24SNL1-alt-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cS.N.L.\u201d had to reinvent its production process for the Covid era. \u201cWe\u2019re going to be as surprised as everyone else when it actually goes on,\u201d Lorne Michaels said.",
+          "copyright": "Rosalind O'Connor/NBC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24SNL1-alt/24SNL1-alt-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cS.N.L.\u201d had to reinvent its production process for the Covid era. \u201cWe\u2019re going to be as surprised as everyone else when it actually goes on,\u201d Lorne Michaels said.",
+          "copyright": "Rosalind O'Connor/NBC"
+        }
+      ],
+      "short_url": "https://nyti.ms/3mZpH3A"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Making Art When \u2018Lockdown\u2019 Means Prison",
+      "abstract": "With two million people behind bars, a stirring exhibition at MoMA PS1 shows the ingenuity of art made by incarcerated people, in restricted space and with few supplies.",
+      "url": "https://www.nytimes.com/2020/09/24/arts/design/marking-time-review-moma-ps1.html",
+      "uri": "nyt://article/33f7aa56-906b-50de-9f3b-632c4100b067",
+      "byline": "By Holland Cotter",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T13:43:28-04:00",
+      "created_date": "2020-09-24T10:00:15-04:00",
+      "published_date": "2020-09-24T10:00:15-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Pick",
+      "des_facet": [
+        "Art",
+        "Sentences (Criminal)",
+        "Solitary Confinement",
+        "Race and Ethnicity",
+        "Marking Time: Art in the Age of Mass Incarceration (Exhibit)"
+      ],
+      "org_facet": [
+        "MoMA PS1"
+      ],
+      "per_facet": [
+        "Fleetwood, Nicole",
+        "Smith, Sable Elyse"
+      ],
+      "geo_facet": [
+        "Long Island City (Queens, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/24markingtime-review1/24markingtime-review1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1363,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A detail of a collage by Tameca Cole, &ldquo;All Locked in a Dark Calm,&rdquo; 2016, from &ldquo;Marking Time: Art in the Age of Mass Incarceration&rdquo; at MoMA PS1, a show of art made largely by inmates of the U.S. prison system.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/24markingtime-review1/24markingtime-review1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A detail of a collage by Tameca Cole, &ldquo;All Locked in a Dark Calm,&rdquo; 2016, from &ldquo;Marking Time: Art in the Age of Mass Incarceration&rdquo; at MoMA PS1, a show of art made largely by inmates of the U.S. prison system.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/24markingtime-review1/24markingtime-review1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A detail of a collage by Tameca Cole, &ldquo;All Locked in a Dark Calm,&rdquo; 2016, from &ldquo;Marking Time: Art in the Age of Mass Incarceration&rdquo; at MoMA PS1, a show of art made largely by inmates of the U.S. prison system.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/24markingtime-review1/24markingtime-review1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A detail of a collage by Tameca Cole, &ldquo;All Locked in a Dark Calm,&rdquo; 2016, from &ldquo;Marking Time: Art in the Age of Mass Incarceration&rdquo; at MoMA PS1, a show of art made largely by inmates of the U.S. prison system.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/24markingtime-review1/24markingtime-review1-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A detail of a collage by Tameca Cole, &ldquo;All Locked in a Dark Calm,&rdquo; 2016, from &ldquo;Marking Time: Art in the Age of Mass Incarceration&rdquo; at MoMA PS1, a show of art made largely by inmates of the U.S. prison system.",
+          "copyright": "Karsten Moran for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/32XTgKB"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Review: \u2018The Comey Rule\u2019 and What a Fool Believes",
+      "abstract": "Showtime\u2019s political drama is a scattered but searing picture of failed self-righteousness.",
+      "url": "https://www.nytimes.com/2020/09/24/arts/television/review-comey-rule.html",
+      "uri": "nyt://article/af902be2-d790-5765-bb84-c431f8854e86",
+      "byline": "By James Poniewozik",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T11:45:59-04:00",
+      "created_date": "2020-09-24T11:45:59-04:00",
+      "published_date": "2020-09-24T11:45:59-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "The Comey Rule (TV Program)"
+      ],
+      "org_facet": [
+        "Showtime"
+      ],
+      "per_facet": [
+        "Comey, James B",
+        "Daniels, Jeff",
+        "Gleeson, Brendan",
+        "Hunter, Holly",
+        "McNairy, Scoot",
+        "Ray, Billy"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24comeyrule/merlin_176875974_b4dc893a-7ba6-4d06-86f2-51f8e015fff0-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1363,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeff Daniels stars as the former F.B.I. director James Comey in &ldquo;The Comey Rule,&rdquo; debuting Sunday on Showtime.",
+          "copyright": "Ben Mark Holzberg/CBS Television Studios/Showtime"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24comeyrule/24comeyrule-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeff Daniels stars as the former F.B.I. director James Comey in &ldquo;The Comey Rule,&rdquo; debuting Sunday on Showtime.",
+          "copyright": "Ben Mark Holzberg/CBS Television Studios/Showtime"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24comeyrule/24comeyrule-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeff Daniels stars as the former F.B.I. director James Comey in &ldquo;The Comey Rule,&rdquo; debuting Sunday on Showtime.",
+          "copyright": "Ben Mark Holzberg/CBS Television Studios/Showtime"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24comeyrule/24comeyrule-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeff Daniels stars as the former F.B.I. director James Comey in &ldquo;The Comey Rule,&rdquo; debuting Sunday on Showtime.",
+          "copyright": "Ben Mark Holzberg/CBS Television Studios/Showtime"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24comeyrule/merlin_176875974_b4dc893a-7ba6-4d06-86f2-51f8e015fff0-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeff Daniels stars as the former F.B.I. director James Comey in &ldquo;The Comey Rule,&rdquo; debuting Sunday on Showtime.",
+          "copyright": "Ben Mark Holzberg/CBS Television Studios/Showtime"
+        }
+      ],
+      "short_url": "https://nyti.ms/305qkPk"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Review: \u2018Romantics Anonymous,\u2019 a Challenge to Your Sweet Tooth",
+      "abstract": "A musical about two French chocolatiers may satisfy the hunger for live song and dance, but keep the insulin handy.",
+      "url": "https://www.nytimes.com/2020/09/24/theater/review-romantics-anonymous-bristol-old-vic.html",
+      "uri": "nyt://article/d996aa97-0b8a-54d0-8e8c-c85e728ac1de",
+      "byline": "By Jesse Green",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T12:39:56-04:00",
+      "created_date": "2020-09-24T12:39:56-04:00",
+      "published_date": "2020-09-24T12:39:56-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Romantics Anonymous (Play)"
+      ],
+      "org_facet": [
+        "Wise Children (Theater Co)",
+        "Bristol Old Vic"
+      ],
+      "per_facet": [
+        "Rice, Emma (1967- )",
+        "Dimond, Christopher",
+        "Kooman, Michael"
+      ],
+      "geo_facet": [
+        "Bristol (England)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24romantics-1/merlin_177429963_c5ff1f26-8dd0-4052-aac5-bba5b741e928-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1192,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carly Bawden, far right, in the musical \u201cRomantics Anonymous,\u201d streamed live from the Bristol Old Vic stage.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24romantics-1/24romantics-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carly Bawden, far right, in the musical \u201cRomantics Anonymous,\u201d streamed live from the Bristol Old Vic stage.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24romantics-1/24romantics-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carly Bawden, far right, in the musical \u201cRomantics Anonymous,\u201d streamed live from the Bristol Old Vic stage.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24romantics-1/merlin_177429963_c5ff1f26-8dd0-4052-aac5-bba5b741e928-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carly Bawden, far right, in the musical \u201cRomantics Anonymous,\u201d streamed live from the Bristol Old Vic stage.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24romantics-1/merlin_177429963_c5ff1f26-8dd0-4052-aac5-bba5b741e928-articleInline.jpg",
+          "format": "Normal",
+          "height": 111,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carly Bawden, far right, in the musical \u201cRomantics Anonymous,\u201d streamed live from the Bristol Old Vic stage.",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2RZh8ao"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "I Was Bullied for Being Arab. Nine Inch Nails Threw Me a Lifeline.",
+      "abstract": "As a teenage girl paralyzed with fear, one of the darkest albums of the 1990s, \u201cThe Downward Spiral,\u201d gave me the guts to rebel against my tormentors.",
+      "url": "https://www.nytimes.com/2020/09/24/arts/music/nine-inch-nails-trent-reznor.html",
+      "uri": "nyt://article/f3273777-6bb2-5d04-8c71-b6912d7f674f",
+      "byline": "By Maya Salam",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T14:24:58-04:00",
+      "created_date": "2020-09-24T13:01:24-04:00",
+      "published_date": "2020-09-24T13:01:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Music",
+        "Bullies",
+        "the downward spiral (Album)"
+      ],
+      "org_facet": [
+        "MTV Networks",
+        "Nine Inch Nails (Music Group)"
+      ],
+      "per_facet": [
+        "Reznor, Trent"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/09/arts/00summer-salam1/merlin_176731302_9bd86cad-58c3-4fb8-9b60-f7ca31bfa105-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1525,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Farah Al Qasimi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/09/arts/00summer-salam1/merlin_176731302_9bd86cad-58c3-4fb8-9b60-f7ca31bfa105-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Farah Al Qasimi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/09/arts/00summer-salam1/merlin_176731302_9bd86cad-58c3-4fb8-9b60-f7ca31bfa105-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Farah Al Qasimi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/09/arts/00summer-salam1/merlin_176731302_9bd86cad-58c3-4fb8-9b60-f7ca31bfa105-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Farah Al Qasimi for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/09/arts/00summer-salam1/merlin_176731302_9bd86cad-58c3-4fb8-9b60-f7ca31bfa105-articleInline.jpg",
+          "format": "Normal",
+          "height": 141,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Farah Al Qasimi for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/30mCJhZ"
+    },
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "Busy Philipps\u2019s Week: Coffee, \u2018Little Women\u2019 and Keeping It Together",
+      "abstract": "The actor is also dedicated to her podcast, \u201cBusy Philipps Is Doing Her Best,\u201d and her dog, Gina Linetti.",
+      "url": "https://www.nytimes.com/2020/09/24/arts/busy-philipps-favorites.html",
+      "uri": "nyt://article/bdc044c6-581f-50ce-be0f-e296a3b4c5db",
+      "byline": "By Priya Arora",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T13:46:27-04:00",
+      "created_date": "2020-09-24T13:46:27-04:00",
+      "published_date": "2020-09-24T13:46:27-04:00",
+      "material_type_facet": "",
+      "kicker": "Recently Viewed",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Social Media",
+        "Podcasts",
+        "Busy Tonight (TV Program)",
+        "Busy Philipps Is Doing Her Best (Radio Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Philipps, Busy"
+      ],
+      "geo_facet": [
+        "Los Angeles (Calif)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27Recently-Viewed3/merlin_177350838_aba90a7f-3e3e-4b34-9200-674123ac62ec-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1369,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Busy Philipps in New York with her puppy, Gina Linetti, who is named after a character in &ldquo;Brooklyn Nine-Nine.&rdquo;",
+          "copyright": "Sabrina Santiago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27Recently-Viewed3/27Recently-Viewed3-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Busy Philipps in New York with her puppy, Gina Linetti, who is named after a character in &ldquo;Brooklyn Nine-Nine.&rdquo;",
+          "copyright": "Sabrina Santiago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27Recently-Viewed3/27Recently-Viewed3-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Busy Philipps in New York with her puppy, Gina Linetti, who is named after a character in &ldquo;Brooklyn Nine-Nine.&rdquo;",
+          "copyright": "Sabrina Santiago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27Recently-Viewed3/27Recently-Viewed3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Busy Philipps in New York with her puppy, Gina Linetti, who is named after a character in &ldquo;Brooklyn Nine-Nine.&rdquo;",
+          "copyright": "Sabrina Santiago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/arts/27Recently-Viewed3/merlin_177350838_aba90a7f-3e3e-4b34-9200-674123ac62ec-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Busy Philipps in New York with her puppy, Gina Linetti, who is named after a character in &ldquo;Brooklyn Nine-Nine.&rdquo;",
+          "copyright": "Sabrina Santiago for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kOJ9OD"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Prince\u2019s Vault Reveals a Brilliant Trove With \u2018Sign O\u2019 the Times\u2019",
+      "abstract": "The reissue of his 1987 masterpiece unveils dozens of unheard songs.",
+      "url": "https://www.nytimes.com/2020/09/24/arts/music/prince-sign-o-the-times-review.html",
+      "uri": "nyt://article/ea27f121-f737-59ec-8d53-ea0414a8211c",
+      "byline": "By Jon Pareles",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T13:06:54-04:00",
+      "created_date": "2020-09-24T13:06:54-04:00",
+      "published_date": "2020-09-24T13:06:54-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Pick",
+      "des_facet": [
+        "Pop and Rock Music",
+        "Sign O' The Times (Album)"
+      ],
+      "org_facet": [
+        "Revolution, The (Music Group)"
+      ],
+      "per_facet": [
+        "Prince (1958- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24prince3/24prince3-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2042,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prince originally wanted\u00a0\u201cSign O\u2019 the Times\u201d to be a triple album. His label at the time trimmed it down to a double; a new reissue explores the songs that were in the mix, and beyond.",
+          "copyright": "Jeff Katz/The Prince Estate"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24prince3/24prince3-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prince originally wanted\u00a0\u201cSign O\u2019 the Times\u201d to be a triple album. His label at the time trimmed it down to a double; a new reissue explores the songs that were in the mix, and beyond.",
+          "copyright": "Jeff Katz/The Prince Estate"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24prince3/24prince3-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prince originally wanted\u00a0\u201cSign O\u2019 the Times\u201d to be a triple album. His label at the time trimmed it down to a double; a new reissue explores the songs that were in the mix, and beyond.",
+          "copyright": "Jeff Katz/The Prince Estate"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24prince3/24prince3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prince originally wanted\u00a0\u201cSign O\u2019 the Times\u201d to be a triple album. His label at the time trimmed it down to a double; a new reissue explores the songs that were in the mix, and beyond.",
+          "copyright": "Jeff Katz/The Prince Estate"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24prince3/24prince3-articleInline.jpg",
+          "format": "Normal",
+          "height": 189,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prince originally wanted\u00a0\u201cSign O\u2019 the Times\u201d to be a triple album. His label at the time trimmed it down to a double; a new reissue explores the songs that were in the mix, and beyond.",
+          "copyright": "Jeff Katz/The Prince Estate"
+        }
+      ],
+      "short_url": "https://nyti.ms/365bb44"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "10 New Books We Recommend This Week",
+      "abstract": "Suggested reading from critics and editors at The New York Times.",
+      "url": "https://www.nytimes.com/2020/09/24/books/review/10-new-books-to-read-this-week.html",
+      "uri": "nyt://article/a1f1b5a2-45be-5277-a43a-2e9bb7d013af",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T14:15:39-04:00",
+      "created_date": "2020-09-24T14:15:39-04:00",
+      "published_date": "2020-09-24T14:15:39-04:00",
+      "material_type_facet": "",
+      "kicker": "Editors\u2019 Choice",
+      "des_facet": [
+        "Books and Literature",
+        "After the Last Border (Book)",
+        "Daddy (Book)",
+        "Fathoms: The World in the Whale (Book)",
+        "Monogamy (Book)",
+        "Owls of the Eastern Ice: A Quest to Find and Save the World's Largest Owl (Book)",
+        "Soul Full of Coal Dust: A Fight for Breath and Justice in Appalachia (Book)",
+        "The Awkward Black Man (Book)",
+        "The Finisher (Book)",
+        "The Presidents Vs. the Press: The Endless Battle Between the White House and the Media--From the Founding Fathers to Fake News (Book)",
+        "The Selected Works of Audre Lorde (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Cline, Emma",
+        "Giggs, Rebecca",
+        "Goudeau, Jessica",
+        "Hamby, Chris",
+        "Lorde, Audre (1934-92)",
+        "Lovesey, Peter",
+        "Miller, Sue",
+        "Mosley, Walter Ellis",
+        "Slaght, Jonathan C",
+        "Holzer, Harold"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/books/24RecBooks/24RecBooks-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 645,
+          "width": 1298,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/books/24RecBooks/24RecBooks-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/books/24RecBooks/24RecBooks-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/books/24RecBooks/24RecBooks-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/books/24RecBooks/24RecBooks-articleInline.jpg",
+          "format": "Normal",
+          "height": 94,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3627T1C"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "\u2018Fargo\u2019 Review: Kansas City, Here We Come",
+      "abstract": "FX\u2019s mannered Midwestern noir returns after three years with a new setting, a social conscience and Chris Rock.",
+      "url": "https://www.nytimes.com/2020/09/24/arts/television/fargo-review-season-four.html",
+      "uri": "nyt://article/c1e7de96-5edb-5930-a01c-4b93c654dfab",
+      "byline": "By Mike Hale",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T14:10:20-04:00",
+      "created_date": "2020-09-24T14:10:20-04:00",
+      "published_date": "2020-09-24T14:10:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Fargo (TV Program)"
+      ],
+      "org_facet": [
+        "FX (TV Network)"
+      ],
+      "per_facet": [
+        "Buckley, Jessie (1989- )",
+        "Hawley, Noah",
+        "Rock, Chris",
+        "Schwartzman, Jason",
+        "Whishaw, Ben"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/25Fargo-print/25Fargo-print-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1572,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Rock plays a midcentury crime boss in the new season of \u201cFargo,\u201d which moves the action from Minnesota to Kansas City.",
+          "copyright": "Elizabeth Morris/FX"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/25Fargo-print/25Fargo-print-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Rock plays a midcentury crime boss in the new season of \u201cFargo,\u201d which moves the action from Minnesota to Kansas City.",
+          "copyright": "Elizabeth Morris/FX"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/25Fargo-print/25Fargo-print-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Rock plays a midcentury crime boss in the new season of \u201cFargo,\u201d which moves the action from Minnesota to Kansas City.",
+          "copyright": "Elizabeth Morris/FX"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/25Fargo-print/25Fargo-print-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Rock plays a midcentury crime boss in the new season of \u201cFargo,\u201d which moves the action from Minnesota to Kansas City.",
+          "copyright": "Elizabeth Morris/FX"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/25Fargo-print/25Fargo-print-articleInline.jpg",
+          "format": "Normal",
+          "height": 146,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Rock plays a midcentury crime boss in the new season of \u201cFargo,\u201d which moves the action from Minnesota to Kansas City.",
+          "copyright": "Elizabeth Morris/FX"
+        }
+      ],
+      "short_url": "https://nyti.ms/2G0iWxw"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "BAFTA Takes Steps on Diversity, After All-White, All-Male Shortlists",
+      "abstract": "Voters in Britain\u2019s version of the Oscars will have to take unconscious bias training, and there will be a quota for women in the first round of voting for best director.",
+      "url": "https://www.nytimes.com/2020/09/24/movies/bafta-diversity-changes.html",
+      "uri": "nyt://article/01a3b8d5-9eee-5aab-a6a3-dad66302943b",
+      "byline": "By Alex Marshall",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T13:49:08-04:00",
+      "created_date": "2020-09-24T13:32:12-04:00",
+      "published_date": "2020-09-24T13:32:12-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Black People",
+        "Minorities",
+        "Awards, Decorations and Honors",
+        "Actors and Actresses"
+      ],
+      "org_facet": [
+        "British Academy of Film and Television",
+        "British Film Institute (BFI) National Archive"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Great Britain"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24bafta1/merlin_177522462_1b488924-df1a-40e6-a4bd-e30d71bc6b66-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1465,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A BAFTAs trophy. On Thursday, the organization that presents the awards announced new measures to encourage more diversity among nominees.",
+          "copyright": "Yui Mok/PA Wire, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24bafta1/24bafta1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A BAFTAs trophy. On Thursday, the organization that presents the awards announced new measures to encourage more diversity among nominees.",
+          "copyright": "Yui Mok/PA Wire, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24bafta1/24bafta1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A BAFTAs trophy. On Thursday, the organization that presents the awards announced new measures to encourage more diversity among nominees.",
+          "copyright": "Yui Mok/PA Wire, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24bafta1/24bafta1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A BAFTAs trophy. On Thursday, the organization that presents the awards announced new measures to encourage more diversity among nominees.",
+          "copyright": "Yui Mok/PA Wire, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24bafta1/merlin_177522462_1b488924-df1a-40e6-a4bd-e30d71bc6b66-articleInline.jpg",
+          "format": "Normal",
+          "height": 136,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A BAFTAs trophy. On Thursday, the organization that presents the awards announced new measures to encourage more diversity among nominees.",
+          "copyright": "Yui Mok/PA Wire, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/342zddE"
+    },
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "7 Things to Do This Weekend",
+      "abstract": "Our critics and writers have selected noteworthy cultural events to experience virtually or in person in New York City.",
+      "url": "https://www.nytimes.com/2020/09/24/arts/things-to-do-weekend-coronavirus.html",
+      "uri": "nyt://article/9f0a5801-1349-5757-8c52-b17cba838949",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T12:47:39-04:00",
+      "created_date": "2020-09-24T12:47:39-04:00",
+      "published_date": "2020-09-24T12:47:39-04:00",
+      "material_type_facet": "",
+      "kicker": "Weekend roundup",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Cats",
+        "Art",
+        "Music",
+        "Dancing",
+        "Theater",
+        "Photography",
+        "Bonnaroo Festival (Manchester, Tenn)",
+        "Rap and Hip-Hop",
+        "Classical Music",
+        "Pop and Rock Music",
+        "Children and Childhood",
+        "Comedy and Humor",
+        "Calling Glenn (Dance)",
+        "Mass for the Endangered (Musical Work)"
+      ],
+      "org_facet": [
+        "Ate9 (Dance Co)",
+        "Bristol Riverside Theater",
+        "Joyce Theater",
+        "Run the Jewels (Music Group)",
+        "White Stripes (Music Group)",
+        "Wilco (Music Group)",
+        "YouTube.com",
+        "Contra-Tiempo",
+        "Far From the Norm"
+      ],
+      "per_facet": [
+        "Big Freedia",
+        "Brown, James (1933-2006)",
+        "Galaxy, Jackson",
+        "Ha, Christina",
+        "Polo G (Rapper)",
+        "Snider, Sarah Kirkland",
+        "Agami, Danielle",
+        "DePonto, Vinny"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24wkd-arts-roundup9/24wkd-arts-roundup9-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1145,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gabby Jones for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24wkd-arts-roundup9/24wkd-arts-roundup9-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gabby Jones for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24wkd-arts-roundup9/24wkd-arts-roundup9-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gabby Jones for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24wkd-arts-roundup9/24wkd-arts-roundup9-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gabby Jones for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24wkd-arts-roundup9/24wkd-arts-roundup9-articleInline.jpg",
+          "format": "Normal",
+          "height": 106,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gabby Jones for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/32X8n7i"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "Don\u2019t Get What Makes Brian De Palma an Auteur? Try These Two Films",
+      "abstract": "The director, who just turned 80, makes popular films that have long inspired debates. Watch \u201cBlow Out\u201d and \u201cCarlito\u2019s Way\u201d to better understand the arguments.",
+      "url": "https://www.nytimes.com/2020/09/24/movies/brian-de-palma-blow-out-carlitos-way.html",
+      "uri": "nyt://article/6b073aa0-bb23-54e2-ba18-90008468835a",
+      "byline": "By Ben Kenigsberg",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T12:34:03-04:00",
+      "created_date": "2020-09-24T12:34:03-04:00",
+      "published_date": "2020-09-24T12:34:03-04:00",
+      "material_type_facet": "",
+      "kicker": "GAteway movies",
+      "des_facet": [
+        "Movies",
+        "Blow Out (Movie)",
+        "Carlito's Way (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "de Palma, Brian"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24gateway-depalma6/merlin_177417012_0f025de9-cdad-4bae-afa4-48110ec06305-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 544,
+          "width": 1280,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Penelope Ann Miller and Al Pacino in \u201cCarlito\u2019s Way.\u201d In the documentary \u201cDe Palma,\u201d the director himself remembers watching this movie and thinking, \u201cI can\u2019t make a better picture than this.\u201d",
+          "copyright": "Universal Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24gateway-depalma6/24gateway-depalma6-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Penelope Ann Miller and Al Pacino in \u201cCarlito\u2019s Way.\u201d In the documentary \u201cDe Palma,\u201d the director himself remembers watching this movie and thinking, \u201cI can\u2019t make a better picture than this.\u201d",
+          "copyright": "Universal Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24gateway-depalma6/24gateway-depalma6-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Penelope Ann Miller and Al Pacino in \u201cCarlito\u2019s Way.\u201d In the documentary \u201cDe Palma,\u201d the director himself remembers watching this movie and thinking, \u201cI can\u2019t make a better picture than this.\u201d",
+          "copyright": "Universal Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24gateway-depalma6/24gateway-depalma6-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Penelope Ann Miller and Al Pacino in \u201cCarlito\u2019s Way.\u201d In the documentary \u201cDe Palma,\u201d the director himself remembers watching this movie and thinking, \u201cI can\u2019t make a better picture than this.\u201d",
+          "copyright": "Universal Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24gateway-depalma6/merlin_177417012_0f025de9-cdad-4bae-afa4-48110ec06305-articleInline.jpg",
+          "format": "Normal",
+          "height": 81,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Penelope Ann Miller and Al Pacino in \u201cCarlito\u2019s Way.\u201d In the documentary \u201cDe Palma,\u201d the director himself remembers watching this movie and thinking, \u201cI can\u2019t make a better picture than this.\u201d",
+          "copyright": "Universal Pictures"
+        }
+      ],
+      "short_url": "https://nyti.ms/3j1w6sD"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Sterling Magee, Bluesman Known as \u2018Satan,\u2019 Dies at 84",
+      "abstract": "As half of the duo Satan and Adam, he played blues on the streets of Harlem and later on stages around the world. He died of complications of Covid-19.",
+      "url": "https://www.nytimes.com/2020/09/24/arts/music/sterling-magee-dead-coronavirus.html",
+      "uri": "nyt://article/9446a715-4c2b-5ebe-bbcf-6f3ed93b3436",
+      "byline": "By Steven Kurutz",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T13:15:59-04:00",
+      "created_date": "2020-09-24T11:04:55-04:00",
+      "published_date": "2020-09-24T11:04:55-04:00",
+      "material_type_facet": "",
+      "kicker": "Those We\u2019ve Lost",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Coronavirus (2019-nCoV)",
+        "Blues Music",
+        "Race and Ethnicity"
+      ],
+      "org_facet": [
+        "Satan and Adam (Music Group)"
+      ],
+      "per_facet": [
+        "Magee, Sterling",
+        "Gussow, Adam"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/obituaries/22Satan1/merlin_153633900_6a937128-70a0-4298-8bdc-19c98aa774c3-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sterling Magee, also known as Mr. Satan, in 2019. He gained fame as part of an unlikely blues duo.",
+          "copyright": "Eve Edelheit for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/obituaries/22Satan1/22Satan1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sterling Magee, also known as Mr. Satan, in 2019. He gained fame as part of an unlikely blues duo.",
+          "copyright": "Eve Edelheit for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/obituaries/22Satan1/22Satan1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sterling Magee, also known as Mr. Satan, in 2019. He gained fame as part of an unlikely blues duo.",
+          "copyright": "Eve Edelheit for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/obituaries/22Satan1/22Satan1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sterling Magee, also known as Mr. Satan, in 2019. He gained fame as part of an unlikely blues duo.",
+          "copyright": "Eve Edelheit for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/obituaries/22Satan1/merlin_153633900_6a937128-70a0-4298-8bdc-19c98aa774c3-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sterling Magee, also known as Mr. Satan, in 2019. He gained fame as part of an unlikely blues duo.",
+          "copyright": "Eve Edelheit for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3mSsU50"
+    },
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "Coronavirus Relief Fund Raises Nearly $20 Million for Artists",
+      "abstract": "Creative professionals can receive $5,000 grants through the end of the year, thanks to additional funding by the Mellon Foundation and others.",
+      "url": "https://www.nytimes.com/2020/09/24/arts/coronavirus-relief-fund-artists.html",
+      "uri": "nyt://article/9b93a677-f7e1-5466-b457-df5dbe01ea9b",
+      "byline": "By Sarah Bahr",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T11:53:32-04:00",
+      "created_date": "2020-09-24T11:00:08-04:00",
+      "published_date": "2020-09-24T11:00:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Coronavirus (2019-nCoV)",
+        "Philanthropy",
+        "Quarantine (Life and Culture)",
+        "Dancing",
+        "Theater",
+        "Music",
+        "Finances"
+      ],
+      "org_facet": [
+        "Mellon Foundation",
+        "Academy of American Poets",
+        "National YoungArts Foundation",
+        "United States Artists",
+        "Foundation for Contemporary Arts",
+        "Artadia",
+        "MAP Fund",
+        "Creative Capital Foundation",
+        "Hardly Strictly Bluegrass"
+      ],
+      "per_facet": [
+        "Alexander, Elizabeth (1962- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24artists-relief-mellon/24artists-relief-mellon-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elizabeth Alexander, the president of the Mellon Foundation, said, \u201cWe continue to call on others to join us in supporting artists so they may continue to illuminate our path forward.\u201d",
+          "copyright": "Djeneba Aduayom"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24artists-relief-mellon/24artists-relief-mellon-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elizabeth Alexander, the president of the Mellon Foundation, said, \u201cWe continue to call on others to join us in supporting artists so they may continue to illuminate our path forward.\u201d",
+          "copyright": "Djeneba Aduayom"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24artists-relief-mellon/24artists-relief-mellon-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elizabeth Alexander, the president of the Mellon Foundation, said, \u201cWe continue to call on others to join us in supporting artists so they may continue to illuminate our path forward.\u201d",
+          "copyright": "Djeneba Aduayom"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24artists-relief-mellon/24artists-relief-mellon-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elizabeth Alexander, the president of the Mellon Foundation, said, \u201cWe continue to call on others to join us in supporting artists so they may continue to illuminate our path forward.\u201d",
+          "copyright": "Djeneba Aduayom"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24artists-relief-mellon/24artists-relief-mellon-articleInline.jpg",
+          "format": "Normal",
+          "height": 285,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elizabeth Alexander, the president of the Mellon Foundation, said, \u201cWe continue to call on others to join us in supporting artists so they may continue to illuminate our path forward.\u201d",
+          "copyright": "Djeneba Aduayom"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kDMwaS"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Luchita Hurtado: The Elusive Artist Portrays Herself",
+      "abstract": "An exhibition of drawings and paintings stretches over several decades of the artist\u2019s long career, but only comes to life in its \u2014 and her \u2014 final efforts.",
+      "url": "https://www.nytimes.com/2020/09/24/arts/design/luchita-hurtado-review.html",
+      "uri": "nyt://article/3a513aa4-a0ed-5e3a-bc11-14d5423506af",
+      "byline": "By Roberta Smith",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T10:12:50-04:00",
+      "created_date": "2020-09-24T10:12:50-04:00",
+      "published_date": "2020-09-24T10:12:50-04:00",
+      "material_type_facet": "",
+      "kicker": "Art Review",
+      "des_facet": [
+        "Art",
+        "Luchita Hurtado: Together Forever (Exhibit)"
+      ],
+      "org_facet": [
+        "Hauser & Wirth"
+      ],
+      "per_facet": [
+        "Hurtado, Luchita (1920-2020)"
+      ],
+      "geo_facet": [
+        "Chelsea (Manhattan, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/24hurtado-review1/merlin_177239640_08d7295e-a7a0-4f2f-8c3c-1e13ac9894be-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1537,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An untitled self-portrait from the 1970s by Luchita Hurtado in the exhibition \u201cTogether Forever\u201d at Hauser &amp; Wirth.",
+          "copyright": "Luchita Hurtado and Hauser & Wirth; Thomas Barratt"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/24hurtado-review1/24hurtado-review1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An untitled self-portrait from the 1970s by Luchita Hurtado in the exhibition \u201cTogether Forever\u201d at Hauser &amp; Wirth.",
+          "copyright": "Luchita Hurtado and Hauser & Wirth; Thomas Barratt"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/24hurtado-review1/24hurtado-review1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An untitled self-portrait from the 1970s by Luchita Hurtado in the exhibition \u201cTogether Forever\u201d at Hauser &amp; Wirth.",
+          "copyright": "Luchita Hurtado and Hauser & Wirth; Thomas Barratt"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/24hurtado-review1/24hurtado-review1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An untitled self-portrait from the 1970s by Luchita Hurtado in the exhibition \u201cTogether Forever\u201d at Hauser &amp; Wirth.",
+          "copyright": "Luchita Hurtado and Hauser & Wirth; Thomas Barratt"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/24hurtado-review1/merlin_177239640_08d7295e-a7a0-4f2f-8c3c-1e13ac9894be-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An untitled self-portrait from the 1970s by Luchita Hurtado in the exhibition \u201cTogether Forever\u201d at Hauser &amp; Wirth.",
+          "copyright": "Luchita Hurtado and Hauser & Wirth; Thomas Barratt"
+        }
+      ],
+      "short_url": "https://nyti.ms/32YBeYV"
+    },
+    {
+      "section": "well",
+      "subsection": "mind",
+      "title": "And the Emmy Goes to \u2026 My Therapist",
+      "abstract": "As he accepted the award for outstanding writing, Cord Jefferson thanked his therapist, and he wasn\u2019t kidding.",
+      "url": "https://www.nytimes.com/2020/09/24/well/mind/cord-jefferson-emmy-black-mental-health.html",
+      "uri": "nyt://article/cb1d731a-4f2b-59b6-a27b-d14a74fa734b",
+      "byline": "By Tara Parker-Pope",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T14:06:15-04:00",
+      "created_date": "2020-09-24T09:53:21-04:00",
+      "published_date": "2020-09-24T09:53:21-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Emmy Awards",
+        "Psychology and Psychologists",
+        "Black People",
+        "Therapy and Rehabilitation",
+        "Race and Ethnicity",
+        "Mental Health and Disorders"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Jefferson, Cord"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/well/well-cord-jefferson/well-cord-jefferson-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1279,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Damon Lindelof (left) and Cord Jefferson at the 72nd Emmy Awards on Sept. 20, 2020.",
+          "copyright": "ABC, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/well/well-cord-jefferson/well-cord-jefferson-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Damon Lindelof (left) and Cord Jefferson at the 72nd Emmy Awards on Sept. 20, 2020.",
+          "copyright": "ABC, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/well/well-cord-jefferson/well-cord-jefferson-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Damon Lindelof (left) and Cord Jefferson at the 72nd Emmy Awards on Sept. 20, 2020.",
+          "copyright": "ABC, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/well/well-cord-jefferson/well-cord-jefferson-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Damon Lindelof (left) and Cord Jefferson at the 72nd Emmy Awards on Sept. 20, 2020.",
+          "copyright": "ABC, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/well/well-cord-jefferson/well-cord-jefferson-articleInline.jpg",
+          "format": "Normal",
+          "height": 119,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Damon Lindelof (left) and Cord Jefferson at the 72nd Emmy Awards on Sept. 20, 2020.",
+          "copyright": "ABC, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3hVfb9z"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "\u2018Misbehaviour\u2019 Review: Pretty Women, Some Pretty Angry",
+      "abstract": "This British comedy about a feminist protest against the 1970 Miss World contest stars Keira Knightley and Gugu Mbatha-Raw.",
+      "url": "https://www.nytimes.com/2020/09/24/movies/misbehaviour-review.html",
+      "uri": "nyt://article/463993e4-265c-57df-93c8-e45fb091d9a3",
+      "byline": "By Manohla Dargis",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T14:08:34-04:00",
+      "created_date": "2020-09-24T09:24:01-04:00",
+      "published_date": "2020-09-24T09:24:01-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Misbehaviour (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Lowthorpe, Philippa",
+        "Buckley, Jessie (1989- )",
+        "Ifans, Rhys",
+        "Kinnear, Greg",
+        "Knightley, Keira",
+        "Mbatha-Raw, Gugu"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/00misbehaviour/merlin_177229920_27753be0-7438-42d1-8648-5367cdb1a04c-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1331,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Meet the dialectics: Keira Knightley and Gugu Mbatha-Raw in Philippa Lowthorpe&rsquo;s &ldquo;Misbehaviour.&rdquo;",
+          "copyright": "Parisa Taghizadeh/Shout! Studios"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/00misbehaviour/00misbehaviour-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Meet the dialectics: Keira Knightley and Gugu Mbatha-Raw in Philippa Lowthorpe&rsquo;s &ldquo;Misbehaviour.&rdquo;",
+          "copyright": "Parisa Taghizadeh/Shout! Studios"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/00misbehaviour/00misbehaviour-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Meet the dialectics: Keira Knightley and Gugu Mbatha-Raw in Philippa Lowthorpe&rsquo;s &ldquo;Misbehaviour.&rdquo;",
+          "copyright": "Parisa Taghizadeh/Shout! Studios"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/00misbehaviour/00misbehaviour-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Meet the dialectics: Keira Knightley and Gugu Mbatha-Raw in Philippa Lowthorpe&rsquo;s &ldquo;Misbehaviour.&rdquo;",
+          "copyright": "Parisa Taghizadeh/Shout! Studios"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/00misbehaviour/merlin_177229920_27753be0-7438-42d1-8648-5367cdb1a04c-articleInline.jpg",
+          "format": "Normal",
+          "height": 123,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Meet the dialectics: Keira Knightley and Gugu Mbatha-Raw in Philippa Lowthorpe&rsquo;s &ldquo;Misbehaviour.&rdquo;",
+          "copyright": "Parisa Taghizadeh/Shout! Studios"
+        }
+      ],
+      "short_url": "https://nyti.ms/3jdd4Qd"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "\u2018Public Trust\u2019 Review: Saving National Lands",
+      "abstract": "This documentary follows individuals pushing back against political forces that want to privatize federal lands.",
+      "url": "https://www.nytimes.com/2020/09/24/movies/public-trust-review.html",
+      "uri": "nyt://article/032238d4-4ef0-5bfd-a2a4-77ec4b2b0903",
+      "byline": "By Ben Kenigsberg",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T07:00:09-04:00",
+      "created_date": "2020-09-24T07:00:09-04:00",
+      "published_date": "2020-09-24T07:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Public Trust (Movie)",
+        "Wilderness Areas",
+        "Federal Lands",
+        "Land Use Policies",
+        "United States Politics and Government",
+        "Documentary Films and Programs",
+        "Mines and Mining",
+        "Oil (Petroleum) and Gasoline"
+      ],
+      "org_facet": [
+        "Interior Department"
+      ],
+      "per_facet": [
+        "Redford, Robert",
+        "Obama, Barack",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Arctic National Wildlife Refuge",
+        "Boundary Waters Canoe Area (Minn)",
+        "Grand Canyon (Ariz)",
+        "Utah"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/14/arts/14publictrust-art/merlin_177230523_f8d3dfed-a4d1-45eb-913c-c19195918ef8-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Arctic National Wildlife Refuge, in Alaska, as seen in \u201cPublic Trust.\u201d",
+          "copyright": "Kahlil Hudson/Patagonia Films"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/14/arts/14publictrust-art/merlin_177230523_f8d3dfed-a4d1-45eb-913c-c19195918ef8-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Arctic National Wildlife Refuge, in Alaska, as seen in \u201cPublic Trust.\u201d",
+          "copyright": "Kahlil Hudson/Patagonia Films"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/14/arts/14publictrust-art/merlin_177230523_f8d3dfed-a4d1-45eb-913c-c19195918ef8-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Arctic National Wildlife Refuge, in Alaska, as seen in \u201cPublic Trust.\u201d",
+          "copyright": "Kahlil Hudson/Patagonia Films"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/14/arts/14publictrust-art/merlin_177230523_f8d3dfed-a4d1-45eb-913c-c19195918ef8-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Arctic National Wildlife Refuge, in Alaska, as seen in \u201cPublic Trust.\u201d",
+          "copyright": "Kahlil Hudson/Patagonia Films"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/14/arts/14publictrust-art/merlin_177230523_f8d3dfed-a4d1-45eb-913c-c19195918ef8-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Arctic National Wildlife Refuge, in Alaska, as seen in \u201cPublic Trust.\u201d",
+          "copyright": "Kahlil Hudson/Patagonia Films"
+        }
+      ],
+      "short_url": "https://nyti.ms/3mMZViF"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "\u2018Myth of a Colorblind France\u2019 Review: Artistry Abroad",
+      "abstract": "The documentary focuses on the history of African-American expatriates in France and the writings, paintings and music they made there.",
+      "url": "https://www.nytimes.com/2020/09/24/movies/myth-of-a-colorblind-france-review.html",
+      "uri": "nyt://article/c5d58b3e-1c08-5c11-8af4-bb218ce16075",
+      "byline": "By Ben Kenigsberg",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T07:00:07-04:00",
+      "created_date": "2020-09-24T07:00:07-04:00",
+      "published_date": "2020-09-24T07:00:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Black People",
+        "Art",
+        "Discrimination",
+        "Documentary Films and Programs"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Govenar, Alan",
+        "Baldwin, James (1924-87)",
+        "Wright, Richard",
+        "Baker, Josephine (1906-75)",
+        "Karim Toure",
+        "Barbara Chase-Riboud"
+      ],
+      "geo_facet": [
+        "United States",
+        "France"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24myth-art/24myth-art-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1012,
+          "width": 1350,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Josephine Baker as seen in the documentary \u201cMyth of a Colorblind France.\u201d",
+          "copyright": "Alan Govenar/First Run Features"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24myth-art/24myth-art-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Josephine Baker as seen in the documentary \u201cMyth of a Colorblind France.\u201d",
+          "copyright": "Alan Govenar/First Run Features"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24myth-art/24myth-art-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Josephine Baker as seen in the documentary \u201cMyth of a Colorblind France.\u201d",
+          "copyright": "Alan Govenar/First Run Features"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24myth-art/24myth-art-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Josephine Baker as seen in the documentary \u201cMyth of a Colorblind France.\u201d",
+          "copyright": "Alan Govenar/First Run Features"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24myth-art/24myth-art-articleInline.jpg",
+          "format": "Normal",
+          "height": 142,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Josephine Baker as seen in the documentary \u201cMyth of a Colorblind France.\u201d",
+          "copyright": "Alan Govenar/First Run Features"
+        }
+      ],
+      "short_url": "https://nyti.ms/3iZ4t3b"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "\u2018Ottolenghi and the Cakes of Versailles\u2019 Review: Pastries of the Gilded Age, Made Modern",
+      "abstract": "This documentary follows the star chef Yotam Ottolenghi as he assembles a crack team to make sweets for an event at the Metropolitan Museum of Art.",
+      "url": "https://www.nytimes.com/2020/09/24/movies/ottolenghi-and-the-cakes-of-versailles-review.html",
+      "uri": "nyt://article/f2722bb2-9316-532d-9eeb-a61f80dc26c6",
+      "byline": "By Glenn Kenny",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T09:33:36-04:00",
+      "created_date": "2020-09-24T07:00:06-04:00",
+      "published_date": "2020-09-24T07:00:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Documentary Films and Programs",
+        "Cooking and Cookbooks",
+        "Ottolenghi and the Cakes of Versaille (Movie)"
+      ],
+      "org_facet": [
+        "Metropolitan Museum of Art"
+      ],
+      "per_facet": [
+        "Gabbert, Laura",
+        "Ottolenghi, Yotam"
+      ],
+      "geo_facet": [
+        "Manhattan (NYC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24ottolenghi-art/merlin_177230460_5037a71f-01c6-47af-9f62-3a39d61fa6ad-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1264,
+          "width": 1980,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Yotam Ottolenghi as seen in \u201cOttolenghi and the Cakes of Versailles.\u201d",
+          "copyright": "Ifc Films"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24ottolenghi-art/merlin_177230460_5037a71f-01c6-47af-9f62-3a39d61fa6ad-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Yotam Ottolenghi as seen in \u201cOttolenghi and the Cakes of Versailles.\u201d",
+          "copyright": "Ifc Films"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24ottolenghi-art/merlin_177230460_5037a71f-01c6-47af-9f62-3a39d61fa6ad-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Yotam Ottolenghi as seen in \u201cOttolenghi and the Cakes of Versailles.\u201d",
+          "copyright": "Ifc Films"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24ottolenghi-art/24ottolenghi-art-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Yotam Ottolenghi as seen in \u201cOttolenghi and the Cakes of Versailles.\u201d",
+          "copyright": "Ifc Films"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24ottolenghi-art/merlin_177230460_5037a71f-01c6-47af-9f62-3a39d61fa6ad-articleInline.jpg",
+          "format": "Normal",
+          "height": 121,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Yotam Ottolenghi as seen in \u201cOttolenghi and the Cakes of Versailles.\u201d",
+          "copyright": "Ifc Films"
+        }
+      ],
+      "short_url": "https://nyti.ms/32Y3sTD"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "\u2018The Last Shift\u2019 Review: Passing the Fast-Food Torch",
+      "abstract": "Richard Jenkins gets a starring role as a man training his replacement at a job he\u2019s worked at for nearly 40 years.",
+      "url": "https://www.nytimes.com/2020/09/24/movies/the-last-shift-review.html",
+      "uri": "nyt://article/12c81da4-85bd-546e-87d3-5a21d4e9d08c",
+      "byline": "By Glenn Kenny",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T14:01:23-04:00",
+      "created_date": "2020-09-24T07:00:05-04:00",
+      "published_date": "2020-09-24T07:00:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "The Last Shift (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Cohn, Andrew (Filmmaker)",
+        "Jenkins, Richard (1947- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/24lastshift/merlin_177234090_28f697c9-8349-4513-94cb-9df8a8bbb98d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1050,
+          "width": 1800,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shane Paul McGhie and Richard Jenkins in &ldquo;The Last Shift.&rdquo;",
+          "copyright": "Sony Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/24lastshift/24lastshift-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shane Paul McGhie and Richard Jenkins in &ldquo;The Last Shift.&rdquo;",
+          "copyright": "Sony Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/24lastshift/24lastshift-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shane Paul McGhie and Richard Jenkins in &ldquo;The Last Shift.&rdquo;",
+          "copyright": "Sony Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/24lastshift/24lastshift-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shane Paul McGhie and Richard Jenkins in &ldquo;The Last Shift.&rdquo;",
+          "copyright": "Sony Pictures"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/24lastshift/merlin_177234090_28f697c9-8349-4513-94cb-9df8a8bbb98d-articleInline.jpg",
+          "format": "Normal",
+          "height": 111,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shane Paul McGhie and Richard Jenkins in &ldquo;The Last Shift.&rdquo;",
+          "copyright": "Sony Pictures"
+        }
+      ],
+      "short_url": "https://nyti.ms/3hYEwQe"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "\u2018Bird Island\u2019 Review: Avian Therapy",
+      "abstract": "This compact, whimsical film about a bird rehabilitation center in Switzerland is perched wryly between fiction and documentary.",
+      "url": "https://www.nytimes.com/2020/09/24/movies/bird-island-review.html",
+      "uri": "nyt://article/c514b4b2-53be-5c2f-82a4-9dc419969070",
+      "byline": "By Devika Girish",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T13:27:45-04:00",
+      "created_date": "2020-09-24T07:00:03-04:00",
+      "published_date": "2020-09-24T07:00:03-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Pick",
+      "des_facet": [
+        "Movies",
+        "Bird Island (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/bird1/merlin_177227571_0a3ae46a-4c83-40e4-b17b-b9931463fc7a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1125,
+          "width": 1493,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A scene from &ldquo;Bird Island,&rdquo; directed by Sergio Da Costa and Maya Kosa.",
+          "copyright": "Close Up Films"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/bird1/bird1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A scene from &ldquo;Bird Island,&rdquo; directed by Sergio Da Costa and Maya Kosa.",
+          "copyright": "Close Up Films"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/bird1/bird1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A scene from &ldquo;Bird Island,&rdquo; directed by Sergio Da Costa and Maya Kosa.",
+          "copyright": "Close Up Films"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/bird1/bird1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A scene from &ldquo;Bird Island,&rdquo; directed by Sergio Da Costa and Maya Kosa.",
+          "copyright": "Close Up Films"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/arts/bird1/merlin_177227571_0a3ae46a-4c83-40e4-b17b-b9931463fc7a-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A scene from &ldquo;Bird Island,&rdquo; directed by Sergio Da Costa and Maya Kosa.",
+          "copyright": "Close Up Films"
+        }
+      ],
+      "short_url": "https://nyti.ms/32YjZXN"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "\u2018The Artist\u2019s Wife\u2019 Review: Strife on Canvas",
+      "abstract": "Lena Olin and Bruce Dern play married artists whose lives are abruptly reconfigured when one receives a diagnosis of dementia.",
+      "url": "https://www.nytimes.com/2020/09/24/movies/the-artists-wife-review.html",
+      "uri": "nyt://article/4be67438-e18c-5cdc-bef1-7d4ff5d46bac",
+      "byline": "By Jeannette Catsoulis",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T07:00:02-04:00",
+      "created_date": "2020-09-24T07:00:02-04:00",
+      "published_date": "2020-09-24T07:00:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "The Artist's Wife (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Olin, Lena",
+        "Bruce Dern",
+        "Tom Dolby"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/arts/artists1/merlin_177233895_cb71bf44-7d68-4dd6-8d5b-75990001bc5b-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1405,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bruce Dern and Lena Olin in \u201cThe Artist\u2019s Wife.\u201d",
+          "copyright": "Strand Releasing"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/arts/artists1/artists1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bruce Dern and Lena Olin in \u201cThe Artist\u2019s Wife.\u201d",
+          "copyright": "Strand Releasing"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/arts/artists1/artists1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bruce Dern and Lena Olin in \u201cThe Artist\u2019s Wife.\u201d",
+          "copyright": "Strand Releasing"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/arts/artists1/artists1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bruce Dern and Lena Olin in \u201cThe Artist\u2019s Wife.\u201d",
+          "copyright": "Strand Releasing"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/arts/artists1/merlin_177233895_cb71bf44-7d68-4dd6-8d5b-75990001bc5b-articleInline.jpg",
+          "format": "Normal",
+          "height": 130,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bruce Dern and Lena Olin in \u201cThe Artist\u2019s Wife.\u201d",
+          "copyright": "Strand Releasing"
+        }
+      ],
+      "short_url": "https://nyti.ms/2G0Ozqy"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "\u2018Kajillionaire\u2019 Review: California Scheming",
+      "abstract": "Miranda July\u2019s third feature follows a family of small-scale swindlers in a deceptively sunny Los Angeles.",
+      "url": "https://www.nytimes.com/2020/09/24/movies/kajillionaire-review.html",
+      "uri": "nyt://article/5828c6e5-9359-5b75-b668-f9e91b8ed112",
+      "byline": "By Jeannette Catsoulis",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T07:00:02-04:00",
+      "created_date": "2020-09-24T07:00:02-04:00",
+      "published_date": "2020-09-24T07:00:02-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Pick",
+      "des_facet": [
+        "Movies",
+        "Kajillionaire (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "July, Miranda",
+        "Jenkins, Richard (1947- )",
+        "Winger, Debra",
+        "Wood, Evan Rachel"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/arts/kajillionaire1/merlin_177229242_11c03a96-6fc5-4e4b-bf27-462b2135751d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Evan Rachel Wood in \u201cKajillionaire.\u201d",
+          "copyright": "Matt Kennedy/Focus Features"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/arts/kajillionaire1/kajillionaire1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Evan Rachel Wood in \u201cKajillionaire.\u201d",
+          "copyright": "Matt Kennedy/Focus Features"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/arts/kajillionaire1/kajillionaire1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Evan Rachel Wood in \u201cKajillionaire.\u201d",
+          "copyright": "Matt Kennedy/Focus Features"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/arts/kajillionaire1/kajillionaire1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Evan Rachel Wood in \u201cKajillionaire.\u201d",
+          "copyright": "Matt Kennedy/Focus Features"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/arts/kajillionaire1/merlin_177229242_11c03a96-6fc5-4e4b-bf27-462b2135751d-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Evan Rachel Wood in \u201cKajillionaire.\u201d",
+          "copyright": "Matt Kennedy/Focus Features"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ctnN6m"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "\u2018Secret Society of Second-Born Royals\u2019 Review: A Princess With Powers",
+      "abstract": "Streaming on Disney+, Anna Mastro\u2019s incoherent origin story follows a rebellious princess who learns she\u2019s even more special than she thought.",
+      "url": "https://www.nytimes.com/2020/09/24/movies/secret-society-of-second-born-royals-review.html",
+      "uri": "nyt://article/7f373a2f-712b-580a-a5a8-a913651def82",
+      "byline": "By Jeannette Catsoulis",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T07:00:02-04:00",
+      "created_date": "2020-09-24T07:00:02-04:00",
+      "published_date": "2020-09-24T07:00:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Secret Society of Second-Born Royals (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Lee, Peyton Elizabeth",
+        "Anna Mastro"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/arts/secret2/secret2-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 900,
+          "width": 1500,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Peyton Elizabeth Lee, Faly Rakotohavana, Niles Fitch and Olivia Deeble in \u201cSecret Society of Second Born Royals.\u201d",
+          "copyright": "Disney"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/arts/secret2/secret2-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Peyton Elizabeth Lee, Faly Rakotohavana, Niles Fitch and Olivia Deeble in \u201cSecret Society of Second Born Royals.\u201d",
+          "copyright": "Disney"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/arts/secret2/secret2-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Peyton Elizabeth Lee, Faly Rakotohavana, Niles Fitch and Olivia Deeble in \u201cSecret Society of Second Born Royals.\u201d",
+          "copyright": "Disney"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/arts/secret2/secret2-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Peyton Elizabeth Lee, Faly Rakotohavana, Niles Fitch and Olivia Deeble in \u201cSecret Society of Second Born Royals.\u201d",
+          "copyright": "Disney"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/arts/secret2/secret2-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 114,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Peyton Elizabeth Lee, Faly Rakotohavana, Niles Fitch and Olivia Deeble in \u201cSecret Society of Second Born Royals.\u201d",
+          "copyright": "Disney"
+        }
+      ],
+      "short_url": "https://nyti.ms/3i00To4"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Solo Plays for Anxious Times",
+      "abstract": "The Bridge theater in London has resumed performances after the coronavirus shutdown with a series of monologues by David Hare and Alan Bennett.",
+      "url": "https://www.nytimes.com/2020/09/24/theater/bridge-david-hare-alan-bennet.html",
+      "uri": "nyt://article/a19063ef-8fec-5ba1-a4b1-0b7cfe0aeb3a",
+      "byline": "By Matt Wolf",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T07:32:52-04:00",
+      "created_date": "2020-09-24T05:41:17-04:00",
+      "published_date": "2020-09-24T05:41:17-04:00",
+      "material_type_facet": "",
+      "kicker": "Theater Review",
+      "des_facet": [
+        "Theater",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Bridge Theater (London, England)"
+      ],
+      "per_facet": [
+        "Bennett, Alan",
+        "Dolan, Monica",
+        "Hare, David",
+        "Hytner, Nicholas",
+        "Manville, Lesley"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/world/24londontheater01/merlin_177484128_6d2260b0-a3e0-4153-9844-d2be8414a711-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ralph Fiennes in David Hare\u2019s \u201cBeat the Devil,\u201d directed by Nicholas Hytner, at the Bridge Theater.",
+          "copyright": "Manuel Harlan"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/world/24londontheater01/24londontheater01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ralph Fiennes in David Hare\u2019s \u201cBeat the Devil,\u201d directed by Nicholas Hytner, at the Bridge Theater.",
+          "copyright": "Manuel Harlan"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/world/24londontheater01/24londontheater01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ralph Fiennes in David Hare\u2019s \u201cBeat the Devil,\u201d directed by Nicholas Hytner, at the Bridge Theater.",
+          "copyright": "Manuel Harlan"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/world/24londontheater01/merlin_177484128_6d2260b0-a3e0-4153-9844-d2be8414a711-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ralph Fiennes in David Hare\u2019s \u201cBeat the Devil,\u201d directed by Nicholas Hytner, at the Bridge Theater.",
+          "copyright": "Manuel Harlan"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/world/24londontheater01/24londontheater01-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ralph Fiennes in David Hare\u2019s \u201cBeat the Devil,\u201d directed by Nicholas Hytner, at the Bridge Theater.",
+          "copyright": "Manuel Harlan"
+        }
+      ],
+      "short_url": "https://nyti.ms/3hZlCZx"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "17 New Books to Watch For in October",
+      "abstract": "New biographies shed light on Malcolm X, Sylvia Plath and the Beatles, plus the latest fiction from Tana French, Martin Amis, Sayaka Murata and more.",
+      "url": "https://www.nytimes.com/2020/09/24/books/october-2020-new-books.html",
+      "uri": "nyt://article/13d87afc-5fde-5327-8771-3abfeaf38c3a",
+      "byline": "By Joumana Khatib",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T12:27:01-04:00",
+      "created_date": "2020-09-24T05:00:26-04:00",
+      "published_date": "2020-09-24T05:00:26-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "Billion Dollar Loser: The Epic Rise and Spectacular Fall of Adam Neumann and WeWork (Book)",
+        "Black Sun: A Novel (Book)",
+        "The Cold Millions: A Novel (Book)",
+        "The Dead Are Arising: The Life of Malcolm X (Book)",
+        "Earthlings (Book)",
+        "Inside Story (Book)",
+        "Leave the World Behind: A Novel (Book)",
+        "Let Love Rule (Book)",
+        "Mad at the World: A Life of John Steinbeck (Book)",
+        "Memorial (Book)",
+        "Missionaries (Book)",
+        "150 Glimpses of the Beatles (Book)",
+        "Red Comet: The Short Life and Blazing Art of Sylvia Plath (Book)",
+        "The Searcher: A Novel (Book)",
+        "Ten Lessons for a Post-Pandemic World (Book)",
+        "War: How Conflict Shaped Us (Book)",
+        "The Zealot and the Emancipator: John Brown, Abraham Lincoln, and the Struggle for American Freedom (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Wiedeman, Reeves",
+        "Roanhorse, Rebecca",
+        "Walter, Jess",
+        "Payne, Les",
+        "Payne, Tamara (1966- )",
+        "Murata, Sayaka",
+        "Takemori, Ginny Tapley",
+        "Amis, Martin",
+        "Alam, Rumaan",
+        "Kravitz, Lenny",
+        "Ritz, David",
+        "Souder, William",
+        "Washington, Bryan (Author)",
+        "Klay, Phil",
+        "Brown, Craig (1957- )",
+        "Clark, Heather (Author)",
+        "French, Tana",
+        "Zakaria, Fareed",
+        "MacMillan, Margaret O (1943- )",
+        "Brands, H W"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/books/00OCTOBERBOOKS-COMBO/00OCTOBERBOOKS-COMBO-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/books/00OCTOBERBOOKS-COMBO/00OCTOBERBOOKS-COMBO-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/books/00OCTOBERBOOKS-COMBO/00OCTOBERBOOKS-COMBO-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/books/00OCTOBERBOOKS-COMBO/00OCTOBERBOOKS-COMBO-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/books/00OCTOBERBOOKS-COMBO/00OCTOBERBOOKS-COMBO-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2RVhhvK"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "David Chang\u2019s Memoir, \u2018Eat a Peach,\u2019 Provides Food for Thought",
+      "abstract": "The restaurateur, television personality and podcast host lays his life on the table with bracing candor.",
+      "url": "https://www.nytimes.com/2020/09/24/books/review/david-chang-eat-a-peach.html",
+      "uri": "nyt://article/8e1bcc42-096c-5083-9ae2-c22d7c9e4a54",
+      "byline": "By Elisabeth Egan",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T11:22:41-04:00",
+      "created_date": "2020-09-24T05:00:06-04:00",
+      "published_date": "2020-09-24T05:00:06-04:00",
+      "material_type_facet": "",
+      "kicker": "Inside the List",
+      "des_facet": [
+        "Books and Literature",
+        "Restaurants",
+        "Chefs",
+        "Eat A Peach: A Memoir (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Chang, David (Chef)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/review/04insidethelist-web/04insidethelist-print-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Chang\u2019s \u201cEat a Peach\u201d is no more a standard foodie memoir than his ramen is a humdrum bowl of soup.",
+          "copyright": "Andrew Bezek"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/review/04insidethelist-web/04insidethelist-web-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Chang\u2019s \u201cEat a Peach\u201d is no more a standard foodie memoir than his ramen is a humdrum bowl of soup.",
+          "copyright": "Andrew Bezek"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/review/04insidethelist-web/04insidethelist-web-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Chang\u2019s \u201cEat a Peach\u201d is no more a standard foodie memoir than his ramen is a humdrum bowl of soup.",
+          "copyright": "Andrew Bezek"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/review/04insidethelist-web/04insidethelist-print-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Chang\u2019s \u201cEat a Peach\u201d is no more a standard foodie memoir than his ramen is a humdrum bowl of soup.",
+          "copyright": "Andrew Bezek"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/review/04insidethelist-web/04insidethelist-print-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Chang\u2019s \u201cEat a Peach\u201d is no more a standard foodie memoir than his ramen is a humdrum bowl of soup.",
+          "copyright": "Andrew Bezek"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cpHko6"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Reed Hastings, the Founder of Netflix, Keeps His Library in His Pocket",
+      "abstract": "\u201cThey\u2019re all on Kindle. Although I have to admit as a first-time author, when the hardcover book arrived, it felt really good to hold in my hands.\u201d",
+      "url": "https://www.nytimes.com/2020/09/24/books/review/reed-hastings-by-the-book-interview.html",
+      "uri": "nyt://article/20a66abe-cf78-5168-8b6e-82b8220b4121",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T05:00:04-04:00",
+      "created_date": "2020-09-24T05:00:04-04:00",
+      "published_date": "2020-09-24T05:00:04-04:00",
+      "material_type_facet": "",
+      "kicker": "By the Book",
+      "des_facet": [
+        "Books and Literature",
+        "Writing and Writers"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Hastings, Reed"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/books/review/27ByTheBook/27ByTheBook-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1044,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jillian Tamaki"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/books/review/27ByTheBook/27ByTheBook-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jillian Tamaki"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/books/review/27ByTheBook/27ByTheBook-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jillian Tamaki"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/books/review/27ByTheBook/27ByTheBook-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jillian Tamaki"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/books/review/27ByTheBook/27ByTheBook-articleInline.jpg",
+          "format": "Normal",
+          "height": 97,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jillian Tamaki"
+        }
+      ],
+      "short_url": "https://nyti.ms/2RR0FFv"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Trump Rallies Are High-Risk Activities, Seth Meyers Says",
+      "abstract": "Attending a Trump event is as risky as \u201cdoorknob licking, hugging everyone on the subway and eating shrimp at the strip club buffet,\u201d the \u201cLate Night\u201d host said.",
+      "url": "https://www.nytimes.com/2020/09/24/arts/television/trump-rallies-late-night-seth-meyers-halloween.html",
+      "uri": "nyt://article/89c62284-77a3-578a-b03f-510b467edee4",
+      "byline": "By Trish Bendix",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T08:45:03-04:00",
+      "created_date": "2020-09-24T03:11:13-04:00",
+      "published_date": "2020-09-24T03:11:13-04:00",
+      "material_type_facet": "",
+      "kicker": "Best of Late Night",
+      "des_facet": [
+        "Conan (TV Program)",
+        "Late Night with Seth Meyers (TV Program)",
+        "The Tonight Show (TV Program)",
+        "Jimmy Kimmel Live (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Fallon, Jimmy",
+        "Kimmel, Jimmy",
+        "Meyers, Seth",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24latenight/24latenight-superJumbo.png",
+          "format": "superJumbo",
+          "height": 476,
+          "width": 849,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cTrump might be getting four more years, but I\u2019m not so sure about the rest of you,\u201d Seth Meyers said Wednesday of the massive crowd at a Pittsburgh campaign rally this week.",
+          "copyright": "NBC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24latenight/24latenight-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cTrump might be getting four more years, but I\u2019m not so sure about the rest of you,\u201d Seth Meyers said Wednesday of the massive crowd at a Pittsburgh campaign rally this week.",
+          "copyright": "NBC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24latenight/24latenight-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cTrump might be getting four more years, but I\u2019m not so sure about the rest of you,\u201d Seth Meyers said Wednesday of the massive crowd at a Pittsburgh campaign rally this week.",
+          "copyright": "NBC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24latenight/24latenight-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cTrump might be getting four more years, but I\u2019m not so sure about the rest of you,\u201d Seth Meyers said Wednesday of the massive crowd at a Pittsburgh campaign rally this week.",
+          "copyright": "NBC"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/arts/24latenight/24latenight-articleInline.png",
+          "format": "Normal",
+          "height": 107,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cTrump might be getting four more years, but I\u2019m not so sure about the rest of you,\u201d Seth Meyers said Wednesday of the massive crowd at a Pittsburgh campaign rally this week.",
+          "copyright": "NBC"
+        }
+      ],
+      "short_url": "https://nyti.ms/2EyK5ao"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Performing in a Pandemic",
+      "abstract": "Most professional theater in America has been shut down since March. So how did this production of \u201cGodspell\u201d come together?",
+      "url": "https://www.nytimes.com/interactive/2020/09/23/theater/godspell-berkshires.html",
+      "uri": "nyt://interactive/4da0126b-4324-50cf-81a6-3935728b95f0",
+      "byline": "By Michael Paulson",
+      "item_type": "Interactive",
+      "updated_date": "2020-09-24T11:57:26-04:00",
+      "created_date": "2020-09-23T18:29:44-04:00",
+      "published_date": "2020-09-23T18:29:44-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [
+        "Berkshire Theater Group"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Berkshires (Mass)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/arts/23berkshiresburst-2/23berkshiresburst-2-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/arts/23berkshiresburst-2/23berkshiresburst-2-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/arts/23berkshiresburst-2/23berkshiresburst-2-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/arts/23berkshiresburst-2/23berkshiresburst-2-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/arts/23berkshiresburst-2/23berkshiresburst-2-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/360hs0T"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Juliette Gr\u00e9co, Grande Dame of Chanson Fran\u00e7aise, Dies at 93",
+      "abstract": "The muse of bohemian postwar Paris, she became an internationally known actress and singer.",
+      "url": "https://www.nytimes.com/2020/09/23/arts/music/juliette-greco-dead.html",
+      "uri": "nyt://article/a94d2e42-e7d9-5f47-830f-7f7a199b56a8",
+      "byline": "By Anita Gates",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T11:15:43-04:00",
+      "created_date": "2020-09-23T15:26:46-04:00",
+      "published_date": "2020-09-23T15:26:46-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Music",
+        "Actors and Actresses"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Greco, Juliette"
+      ],
+      "geo_facet": [
+        "Paris (France)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/obituaries/23Greco1-print/merlin_169916226_3f93a190-d639-443d-bdfe-4e692a7c0593-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1651,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The singer and actressJuliette Gr&eacute;co in 1965. Jean-Paul Sartre once said, &ldquo;Gr&eacute;co has a million poems in her voice.&rdquo;",
+          "copyright": "Keystone/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/obituaries/23Greco1-print/merlin_169916226_3f93a190-d639-443d-bdfe-4e692a7c0593-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The singer and actressJuliette Gr&eacute;co in 1965. Jean-Paul Sartre once said, &ldquo;Gr&eacute;co has a million poems in her voice.&rdquo;",
+          "copyright": "Keystone/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/obituaries/23Greco1-print/merlin_169916226_3f93a190-d639-443d-bdfe-4e692a7c0593-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The singer and actressJuliette Gr&eacute;co in 1965. Jean-Paul Sartre once said, &ldquo;Gr&eacute;co has a million poems in her voice.&rdquo;",
+          "copyright": "Keystone/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/obituaries/23Greco1-print/23Greco1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The singer and actressJuliette Gr&eacute;co in 1965. Jean-Paul Sartre once said, &ldquo;Gr&eacute;co has a million poems in her voice.&rdquo;",
+          "copyright": "Keystone/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/obituaries/23Greco1-print/merlin_169916226_3f93a190-d639-443d-bdfe-4e692a7c0593-articleInline.jpg",
+          "format": "Normal",
+          "height": 236,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The singer and actressJuliette Gr&eacute;co in 1965. Jean-Paul Sartre once said, &ldquo;Gr&eacute;co has a million poems in her voice.&rdquo;",
+          "copyright": "Keystone/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3co2fb8"
+    }
+  ]
+}
